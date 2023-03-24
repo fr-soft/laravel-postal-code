@@ -12,7 +12,10 @@
             "email": "doi@fr-soft.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=8.0",
+        "laravel/framework": "^8.54"
+    },
     "require-dev": {
         "phpunit/phpunit": "*"
     }
