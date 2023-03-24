@@ -12,5 +12,8 @@
             "email": "doi@fr-soft.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "*"
+    }
 }
