@@ -1,0 +1,16 @@
+{
+    "name": "fr-soft/laravel-postal-code",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "FrSoft\\LaravelPostalCode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Takuo Doi",
+            "email": "doi@fr-soft.com"
+        }
+    ],
+    "require": {}
+}
